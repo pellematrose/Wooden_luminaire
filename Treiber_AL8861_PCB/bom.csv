@@ -1,0 +1,9 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,1206,1,4.7u,
+"D1, D3",D_SMB,2,VS10BQ040-M3,
+D2,D_SMB,1,SM6T36A,
+J1,TBHL11-350,1,Conn_01x02_Socket,
+"J2, J3",TestPoint_Keystone_5015_Micro-Minature,2,Conn_01x01_Pin,
+L1,L_Bourns-SRN4018,1,47u,
+"R1, R2, R3",0603,3,1R,
+U1,SOT-23-5,1,AL8861,
